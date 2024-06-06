@@ -69,4 +69,6 @@ The Sales Forecasting page utilizes time series analysis techniques to forecast 
    - Reviewed and finalized the dashboard layout and visualizations.
    - Saved the Power BI report file as `Retail Store Sales Dashboard.pbix`and uploaded to the repository.
 
-
+### Snapshots of the report screens with visuals mentioned earlier
+1. **Sales Dashboard**
+   
