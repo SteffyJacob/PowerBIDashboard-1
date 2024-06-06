@@ -74,6 +74,7 @@ The Sales Forecasting page utilizes time series analysis techniques to forecast 
    ![Screenshot 2024-06-06 190823](https://github.com/SteffyJacob/PowerBIDashboard-1/assets/69688793/f1385461-0cff-43ae-a1d8-b45db22c8931)
    
 3. **Sales Dashboard-Region Slicer applied**
+   ![Screenshot 2024-06-06 191522](https://github.com/SteffyJacob/PowerBIDashboard-1/assets/69688793/96bfdf61-2d72-4280-8487-1b4dc2d53f92)
    
-4. **Sales Forecasting**
-5. 
+5. **Sales Forecasting**
+   ![Screenshot 2024-06-06 190922](https://github.com/SteffyJacob/PowerBIDashboard-1/assets/69688793/ebc8ba41-39d2-4df4-b222-4e389f931087)
