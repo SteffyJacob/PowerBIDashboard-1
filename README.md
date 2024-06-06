@@ -71,4 +71,4 @@ The Sales Forecasting page utilizes time series analysis techniques to forecast 
 
 ### Snapshots of the report screens with visuals mentioned earlier
 1. **Sales Dashboard**
-   
+   ![Screenshot 2024-06-06 190823](https://github.com/SteffyJacob/PowerBIDashboard-1/assets/69688793/f1385461-0cff-43ae-a1d8-b45db22c8931)
